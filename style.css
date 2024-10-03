@@ -8,16 +8,6 @@
 .dropdown-menu a:hover{
 	background-color: rgba(203, 213, 192, 0.5);
 }
-#portfolio-title{
-	padding-top: 70px;
-	padding-bottom: 70px;
-
-}
-
-/* Align the dropdown to the left */
-.dropdown-menu a:hover{
-	background-color: rgba(203, 213, 192, 0.5);
-}
 
 .bg-body-tertiary {
     --bs-bg-opacity: 0;
@@ -244,176 +234,64 @@ a {
 }
 #experience-heading h2{
 	padding-top: 20px;
-	padding-bottom: 20px;
 	text-align: center;
 }
-.bg-body-tertiary {
-    --bs-bg-opacity: 0;
-    background-color: rgba(250, 252, 255, 0)!important;
-}
 
-.navbar-brand{
-	padding-left: 30px;
-}
-
-.cormorant-garamond-bold {
-  font-family: "Cormorant Garamond", serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.navbar{
-	padding-bottom: 0px;
-}
-#section-one{
-	margin-left: 30px;
-	margin-right: 30px;
-	margin-bottom: 50px;
-}
-
-.footer{
-	background-color: #CBD5C0;
+#ux-ui-introduction{
 	padding-left: 50px;
 	padding-right: 50px;
 }
 
-#contact a{
-	text-decoration: none;
-}
-
-
-hr {
-    display: block;
-    overflow-x: hidden;
-    overflow-y: hidden;
-    unicode-bidi: isolate;
-    color: #758467;
-    margin-block-start: 0.5em;
-    margin-block-end: 0.0em;
-    margin-inline-start: auto;
-    margin-inline-end: auto;
-    border-top-style: inset;
-    border-right-style: inset;
-    border-bottom-style: inset;
-    border-left-style: inset;
-    border-top-width: 5px;
-    border-right-width: 1px;
-    border-bottom-width: 1px;
-    border-left-width: 1px;
-}
-
-/* TEXT DESIGNS -- Keep consistent throughout pages */
-
-h1{
-	text-align: center;
-	font-family: "Cormorant Garamond", serif;
-  	font-weight: 400;
-  	font-style: normal;
-  	font-size: 100px;
-
-
-}
-
-h2{
-	text-align: center;
-	font-family: "Lora", serif;
-	font-optical-sizing: auto;
-	font-weight: 100;
-	font-style: normal;
-}
-
-#footer-text{
-	padding-top: 20px;
-}
-
-#footer-text p{
-	padding-top: 15px;
-	color: darkslategrey;
-}
-
-.footer h2{
-	text-align: left;
+#ux-ui-contents{
 	padding-left: 50px;
-	font-size: 20px;
-	color: black;
+	padding-right: 50px;
+
 }
 
-a:hover {
-	color: grey;
+#bubblegum-website{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
 }
 
+#boarderline-website{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 
-h3{
-	text-align: left;
-	font-family: "Cormorant Garamond", serif;
-  	font-weight: 600;
-  	font-style: normal;
-  	font-size: 30px;
-  	padding-top: 30px;
 }
 
-h4{
-	font-family: "Lora", serif;
-	font-size: 15px;
-	font-style: normal;
-	color: gray;
+#boarderline-description{
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
+
+#boarderline-website h3{
 	padding-top: 0px;
 }
 
-a{
-	font-family: "Lora", serif;
-	font-optical-sizing: auto;
-	font-weight: 100;
-	font-style: normal;
+#bubblegum-website h3{
+	padding-top: 0px;
 }
 
-#link-text{
-	padding-top: 15px;
+#dfish-website h3{
+	padding-top: 0px;
 }
 
-.btn-outline-dark {
-    --bs-btn-color: #212529;
-    --bs-btn-border-color: #212529;
-    --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #819171;
-    --bs-btn-hover-border-color: #212529;
-    --bs-btn-focus-shadow-rgb: 33,37,41;
-    --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: #819171;
-    --bs-btn-active-border-color: #212529;
-    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-    --bs-btn-disabled-color: #212529;
-    --bs-btn-disabled-bg: transparent;
-    --bs-btn-disabled-border-color: #212529;
-    --bs-gradient: none;
-}
-
-a {
-    color: rgba(46, 54, 66, 1);
-    text-decoration: underline;
-    font-weight: 300;
-}
-
-#socials img{
-	margin-left: 30px;
-	margin-top: 15px;
-}
-
-#section-two-text{
-	font-family: "Lora", serif;
-	font-optical-sizing: auto;
-	font-weight: 100;
-	font-style: normal;
-	padding: 20px;
+#dfish-website{
 	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
 }
 
-#section-two-image{
-	padding: 20px;
+#dfish-description{
 	padding-left: 50px;
-	align-content: center;
-}
+	padding-right: 50px;
 
-#section-two{
-	margin-top: 30px;
 }
