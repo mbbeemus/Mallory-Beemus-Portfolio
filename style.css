@@ -248,6 +248,17 @@ a {
 
 }
 
+#adobe-contents{
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
+
+#adobe-projects-intro{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
 #bubblegum-website{
 	padding-left: 50px;
 	padding-right: 50px;
@@ -295,3 +306,111 @@ a {
 	padding-right: 50px;
 
 }
+
+#bytes-project h3{
+	padding-top: 0px;
+}
+
+#bytes-project{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+#bytes-description{
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
+
+
+#safe-sobers-project h3{
+	padding-top: 0px;
+}
+
+#safe-sobers-project{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+#safe-sobers-description{
+	padding-left: 50px;
+	padding-right: 50px;
+
+}
+
+#about-me{
+	padding: 50px;
+		padding-top: 70px;
+
+}
+
+#mallory-image{
+	padding: 50px;
+}
+
+#about-page-contact{
+	padding: 50px;
+}
+
+#contact-information{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#view-resume-pdf{
+	justify-content: center;
+	padding: 50px;
+}
+
+.btn-small {
+    padding: 5px 10px; /* Adjust padding for size */
+    font-size: 0.8rem;  /* Adjust font size */
+    display: inline-block; /* Prevent full-width stretching */
+    width: auto; /* Ensures button does not stretch */
+}
+
+#contact-page-contact{
+	padding-top: 50px;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-bottom: 50px;
+}
+
+#where-i-am-from-section{
+	padding: 50px;
+}
+#wrestling-section{
+	padding: 50px;
+}
+
+#boarderling-logo-section{
+	padding: 50px;
+}
+
+#boarderline-project{
+	padding: 50px;
+}
+
+
+#adobe-projects-intro{
+	padding-bottom: 50px;
+}
+
+#where-i-am-from-description h3{
+	padding-top: 0px;
+}
+
+#wrestling-description h3{
+	padding-top: 0px;
+}
+
+#boarderline-project-description h3{
+	padding-top: 0px;
+}
+
