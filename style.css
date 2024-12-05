@@ -439,3 +439,7 @@ a {
 #carouselExampleRide .carousel-control-next {
     right: 0;
 }
+
+#boarderline-project-description .btn{
+	margin-top: 30px;
+}
