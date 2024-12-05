@@ -317,6 +317,16 @@ a {
 	padding-top: 50px;
 	padding-bottom: 50px;
 
+
+}
+
+#bytes-mockup{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	padding-right: 50px;
+	align-content: center;
+	justify-content: center;
 }
 
 #bytes-description{
@@ -414,3 +424,18 @@ a {
 	padding-top: 0px;
 }
 
+
+#carouselExampleRide .carousel-control-prev,
+#carouselExampleRide .carousel-control-next {
+    width: 50px;  /* Adjust width to match your design */
+    height: 100%;
+    top: 0;
+}
+
+#carouselExampleRide .carousel-control-prev {
+    left: 0;
+}
+
+#carouselExampleRide .carousel-control-next {
+    right: 0;
+}
